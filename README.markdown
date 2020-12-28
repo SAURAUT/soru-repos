@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Important edit of today
+=======
+Editor - Saurabh Raut
+>>>>>>> 2eaec2548187d2a14144022186841ff0c8c3a3a5
 
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
